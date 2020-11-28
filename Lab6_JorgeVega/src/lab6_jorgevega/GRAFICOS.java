@@ -415,7 +415,6 @@ public GRAFICOS() {
         );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Jelp for Clau");
 
         jPanel1.setBackground(new java.awt.Color(51, 51, 255));
 
